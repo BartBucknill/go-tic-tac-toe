@@ -1,0 +1,7 @@
+github.com/BartBucknill/go-tic-tac-toe v0.0.0-20220124113051-1e7197caa76e h1:u8tCJJj8FoaGwgYO26+5c39VrLTh+5VGviPcnNPlp6A=
+github.com/BartBucknill/go-tic-tac-toe v0.0.0-20220124113051-1e7197caa76e/go.mod h1:y1eJNX55qY8Q+AiIT/I+lVteKyXOr1nGxLcydFCKrnY=
+github.com/google/go-cmp v0.5.7 h1:81/ik6ipDQS2aGcBfIN5dHDB36BwrStyeAQquSYCV4o=
+github.com/google/go-cmp v0.5.7/go.mod h1:n+brtR0CgQNWTVd5ZUFpTBC8YFBDLK/h/bpaJ8/DtOE=
+github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0SNc=
+github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
+golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
